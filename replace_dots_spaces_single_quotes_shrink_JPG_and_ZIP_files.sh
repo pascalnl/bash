@@ -2,7 +2,7 @@
 
 ## If you run the script a second time over a directory. 
 ## Zipped files that had the somename.extension.zip format will 
-## be renamed to somename_extension.zip which is feature :) not
+## be renamed to somename_extension.zip which is a feature :) not
 
 # Get the current date and time
 current_datetime=$(date +"%Y-%m-%d_%H-%M-%S")
